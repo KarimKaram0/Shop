@@ -1,0 +1,33 @@
+
+li{
+    list-style: none;
+    font-size: larger;
+    
+}
+
+li a{ color:black!important ;
+;}
+
+
+li a:hover{
+    color: blueviolet !important;
+    transition: all 1s;
+}
+
+.naaav img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.js{
+    justify-content: space-between;
+}
+i{
+    font-size: 18px;
+}
+
+.navbar-toggler .navbar-toggler-icon{
+    background-image: url("../images/listIcon.png");
+}
+
+

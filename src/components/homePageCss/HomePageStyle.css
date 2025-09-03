@@ -1,0 +1,11 @@
+img {
+    height: 90vh;
+    
+}
+
+
+@media (max-width:701px) {
+    .container .row img{
+    margin-bottom: 50px;
+}
+}

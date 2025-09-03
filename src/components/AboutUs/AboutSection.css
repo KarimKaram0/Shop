@@ -1,0 +1,29 @@
+h1{
+    transition: 0.5s ease-in-out;
+    
+}
+.about h1:hover{
+    background-color: aqua;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: #fff !important;
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+    cursor: pointer;
+    font-size: 60px;
+}
+.container .row .col-md-4 img{
+border-radius: 10px;
+}
+
+
+@media (max-width:701px) {
+    
+.t  {
+    text-align: center;
+        margin-left: 2%;
+    
+}
+}
