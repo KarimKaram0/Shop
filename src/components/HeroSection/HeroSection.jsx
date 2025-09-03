@@ -3,7 +3,7 @@ import product2 from"../images/pro2.jpg"
 import product3 from"../images/pro9.jpg"
 import 'animate.css';
 
-import "../homePageCss/HomePageStyle.css"
+import "../homePageSections/homePageStyle.css"
 
 
 export default function HeroSection() {

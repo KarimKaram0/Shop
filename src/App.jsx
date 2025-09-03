@@ -6,12 +6,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import NavBar from './components/NavBar/NavBar';
 import { Route, Routes } from 'react-router-dom';
-import HomePageSections from './components/homePageSections';
 import Blog from './components/Blog/Blog';
 import ShopPage from './components/Shop/ShopPage';
 import Footer from "./components/Footer/Footer"
 import LogInPage from './components/LogIn/LogInPage';
 import DarkMode from './components/DarkMode/DarkMode';
+import HomePageSections from './components/homePageSections/homePageSections';
 
 
 function App() {
